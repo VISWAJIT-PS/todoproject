@@ -1,14 +1,13 @@
 .banner{
-     background-color: darkslateblue;
+     background-color: #FE8C40;
      width: 100%;
-     height: 93%;
-     margin-bottom:100px;
+     height: 200px;
+     margin-bottom:50px;
 }
 
 .banner-text{
-    top:40px;
-    left:710px;
+    top:50px;
+    left:50px;
     position:absolute;
-
-
+    transform:transform;
 }
